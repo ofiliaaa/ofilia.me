@@ -8,3 +8,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Rubik Iso', cursive;
 }
+img {
+    max-width: 90%;
+    max-height: 80vh;
+    height:auto;
+}
